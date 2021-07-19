@@ -80,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a simple e-commerce backend software made using sequelize express!
+This is a simple tem profile viewer and profile creator!
 
 <!-- GETTING STARTED -->
 ## Getting Started
