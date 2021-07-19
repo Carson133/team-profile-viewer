@@ -1,0 +1,27 @@
+{
+  "name": "team-profile-viewer",
+  "version": "1.0.0",
+  "description": "A team profile viewer.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carson133/team-profile-viewer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Carson133/team-profile-viewer/issues"
+  },
+  "homepage": "https://github.com/Carson133/team-profile-viewer#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.0.6"
+  }
+}
